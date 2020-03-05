@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bfe61ad-fa52-4191-8e2a-f487c3dff806" name="Default Changelist" comment="" />
+    <list default="true" id="4bfe61ad-fa52-4191-8e2a-f487c3dff806" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/Cuadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/GestorFiguras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/GestorFigurasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EjercicioFiguras/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFigurasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFigurasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yi1nvRgp5Vgzag7woybGHiQu3K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,9 +45,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="GestorFigurasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,25 +77,44 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1583410781651">
+    <state x="400" y="34" key="#GestorFigurasTest" timestamp="1583412165815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583410781651" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583411603703">
+    <state x="400" y="34" key="#GestorFigurasTest/0.0.1366.728@0.0.1366.728" timestamp="1583412165815" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1583412025630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583411603703" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583411603703">
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583412025630" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583412035550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583411603703" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583411603703">
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583412035550" />
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1583412991932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583411603703" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583411603703">
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583412991932" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583412969181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583411603703" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583412969181" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583412969181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583412969181" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583412969181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583412969181" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583412969181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583412969181" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583412257689">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583412257689" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EjercicioFiguras$GestorFigurasTest.ic" NAME="GestorFigurasTest Coverage Results" MODIFIED="1583412121356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

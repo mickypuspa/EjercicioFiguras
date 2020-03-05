@@ -8,6 +8,11 @@ public class GestorFigurasTest {
 
         GestorFiguras g = new GestorFiguras();
 
+        g.sort(figura);
+        for (Figura value : figura) {
+            System.out.println("Figura:" + value.getClass().getName() + ", Área:" + value.area());
+        }
+
         double Atotal = g.Suma(figura);
         System.out.println("Suma de todas las areas: " + Atotal);
     }

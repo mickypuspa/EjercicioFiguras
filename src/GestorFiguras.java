@@ -10,4 +10,8 @@ public class GestorFiguras {
         }
         return atotal;
     }
+
+    public void sort (Figura[] figura){
+        Arrays.sort(figura);
+    }
 }

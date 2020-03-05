@@ -7,4 +7,8 @@ public class Circulo extends Figura {
     public double area(){
         return Math.PI * radio * radio;
     }
+
+    public int compareTo(Figura o) {
+        return super.compareTo(o);
+    }
 }

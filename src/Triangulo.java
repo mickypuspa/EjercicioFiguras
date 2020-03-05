@@ -11,4 +11,8 @@ public class Triangulo extends Figura {
         return (base*altura)/2;
     }
 
+    public int compareTo(Figura o) {
+        return super.compareTo(o);
+    }
+
 }

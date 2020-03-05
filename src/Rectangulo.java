@@ -10,4 +10,8 @@ public class Rectangulo extends Figura {
     public double area(){
         return lado1*lado2;
     }
+
+    public int compareTo(Figura o) {
+        return super.compareTo(o);
+    }
 }
